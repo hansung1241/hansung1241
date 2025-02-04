@@ -6,7 +6,7 @@ During my university years, I worked on several projects using C, C++, and Pytho
 
 First, I developed a patrol drone that utilizes a facial recognition library to detect and capture images of suspicious individuals. I also developed and managed a website where the captured images were uploaded in real time. For this project, I used PyCharm and VS Code as the integrated development environments and primarily developed the software using Python.
 
-Second, I worked on a project that involved building a reaction time measurement system using ICP (Input Capture Peripheral) with an ATmega128A microcontroller. The goal was to provide a stable and reliable system. I used AVR Studio as the integrated development environment and primarily programmed the software in C.
+Second, I worked on a project that involved building a reaction time measurement system using ICP with an ATmega128A microcontroller. The goal was to provide a stable and reliable system. I used AVR Studio as the integrated development environment and primarily programmed the software in C.
 
 Lastly, I developed a vending machine interface and UI using MFC. For this project, I used Visual Studio as the integrated development environment and primarily programmed in C++.
 
